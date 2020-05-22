@@ -1,4 +1,4 @@
-# Project 6
+
 ## Lease Finder
 
 ### Roles
@@ -8,9 +8,6 @@
 * Documentation: Lang Xu
 
 ### Contributions
-Please list who did what for each part of the project.
-Also list if people worked together (pair programmed) on a particular section.
-
 Jasmohan Bawa: Worked on the page for each indvidual sublet post. This includes using information from sublet post, property, and review, and bringing it all in together onto one comprehensive page. Also started off with the use of Bootstrap for design, especially with the use of cards.
 
 Juhee Park: Worked on the landing page. This includes displaying all the current, available sublet posts, and creating multiple ways to filter and sort these results. Also worked on the navbar that is visible on every page. 
@@ -31,7 +28,6 @@ As a Group: The team worked together, all pair programming, on choosing a color 
 5. Run command `rake db:reset` to get the seed data
 6. Visit `localhost:3000` in Firefox, and you should be on our home page
 
-If any unexpected issues arise, please contact the Groovy Ruby Support Team and we would be happy to assist you in setting up the Web App
 
 ### How to Execute Test Cases
 Testing documentation is written in text files in the `leaseFinder/test/` directory
