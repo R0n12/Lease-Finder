@@ -1,12 +1,6 @@
 
 ## Lease Finder
 
-### Roles
-* Overall Project Manager: Juhee Park
-* Coding Manager: Jasmohan Bawa
-* Testing Manager: Daniel Lim
-* Documentation: Lang Xu
-
 ### Contributions
 Jasmohan Bawa: Worked on the page for each indvidual sublet post. This includes using information from sublet post, property, and review, and bringing it all in together onto one comprehensive page. Also started off with the use of Bootstrap for design, especially with the use of cards.
 
